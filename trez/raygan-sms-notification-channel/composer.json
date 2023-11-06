@@ -1,0 +1,37 @@
+{
+  "name": "trez/raygan-sms-notification-channel",
+  "type": "library",
+  "description": "Raygan SMS Channel for Laravel 5.3+",
+  "keywords": [
+    "trez",
+    "raygansms",
+	"laravel-notification-channels",
+	"raygansms-channel"
+  ],
+  "support": {
+    "issues": "https://github.com/farhadmirzapour/RaygansmsChannel/issues",
+    "source": "https://github.com/farhadmirzapour/RaygansmsChannel"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Farhad Mirzapour",
+      "email": "farhad.mirzapour@gmail.com",
+      "homepage": "http://farhadnote.ir"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.6.4",
+    "illuminate/notifications": "*",
+    "trez/raygan-sms": "*"
+  },
+  "autoload": {
+    "psr-4": {
+	  "NotificationChannels\\RayganSms\\": "src"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  }
+}
