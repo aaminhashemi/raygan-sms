@@ -1,0 +1,8 @@
+{
+  "name": "aaminhashemi/package-name",
+  "description": "Description of your package",
+  "type": "library",
+  "require": {
+    "php": "^7.3|^8.0"
+  }
+}
