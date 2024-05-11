@@ -1,6 +1,6 @@
 <?php
 
-namespace Trez\RayganSms;
+namespace TrezSms\NewRayganSms;
 
 use Illuminate\Support\ServiceProvider;
 
