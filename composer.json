@@ -38,10 +38,10 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Trez\\RayganSms\\RayganSmsServiceProvider"
+        "TrezSms\\NewRayganSms\\RayganSmsServiceProvider"
       ],
         "aliases": {
-            "RayganSms": "Trez\\RayganSms\\Facades"
+            "RayganSms": "TrezSms\\NewRayganSms\\Facades"
         }
     }
   }
