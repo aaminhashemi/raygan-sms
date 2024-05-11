@@ -1,5 +1,5 @@
 {
-  "name": "trez/new-raygan-sms",
+  "name": "trez-sms/new-raygan-sms",
   "type": "library",
   "description": "A simple API extension for send text message By Raygan Sms",
   "keywords": [
