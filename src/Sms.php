@@ -1,6 +1,6 @@
 <?php
 
-namespace Trez\RayganSms;
+namespace TrezSms\NewRayganSms;
 
 use GuzzleHttp\Client as HttpClient;
 
